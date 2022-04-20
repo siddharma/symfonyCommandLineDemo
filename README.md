@@ -1,4 +1,8 @@
 # symfonyCommandLineDemo
+
+This is the project to read XML file of server[any] and write it on local.
+After writing it on local by default it will convert this file into CSV and if we pass the value to storage variable from command line other than csv then it will insert xml data into table called project.
+
 Git Clone from https://github.com/siddharma/symfonyCommandLineDemo.git and then follow below steps to execute project
 
 
