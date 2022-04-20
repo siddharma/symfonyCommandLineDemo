@@ -1,9 +1,12 @@
 # symfonyCommandLineDemo
-Item 1 Step 1: Required PHP 8 and Apache latest
+Git Clone from https://github.com/siddharma/symfonyCommandLineDemo.git and then follow below steps to execute project
+
+
+Step 1: Required PHP 8 and Apache latest
 
 Step 2: Copy folder in htdocs folder of XAMPP
 
-Step 3: cd project_dharmendra_sid
+Step 3: cd symfonyCommandLineDemo
 
 Step 4: Execute composer install command
 
@@ -16,7 +19,7 @@ Step 7: Execute command [php bin/console app:sunshine] to run the program on php
 
 Step 8: It will execute with default values and download and create CSV file on local
 
-Step 9: Store files in local directoy project_dharmendra_sid/var/storage/default/
+Step 9: Store files in local directoy symfonyCommandLineDemo/var/storage/default/
 
 Step 10: you can pass parameters in sequence below 
 
